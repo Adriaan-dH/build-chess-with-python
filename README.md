@@ -1,5 +1,7 @@
 # Learn Python Though Creating Your Own Chess Game
 
+### By Adriaan den Haan
+
 This is a beginner-friendly guided project for learning Python by building a chess game and its logic from scratch. Linux is recommended for the smoothest setup experience, and the included Makefile is used to make running the project as easy as possible. Running `make run` with the code as-is will open the chess board and show the debug terminal, along with some basic starter functionality, to help beginners kick-start the project before working through the TODOs, hints, and step-by-step implementation tasks.
 
 ## 0. Setup
@@ -129,3 +131,7 @@ rule and threefold repetition. Use `place_piece` to make small test positions.
 ## Before a commit
 
 Only commit a feature after it launches, closes cleanly, and has been tested.
+
+### Contact
+Adriaan den Haan
+adenhaan1@gmail.com
